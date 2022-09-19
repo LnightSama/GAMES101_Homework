@@ -1,0 +1,35 @@
+{
+    "options": {
+       "cwd": "${workspaceFolder}/build"
+    },
+    "tasks": [
+       {
+          "label": "cmake",
+          "command":"cmake",
+          "args": ["-DCMAKE_BUILD_TYPE=Debug",
+            "-L",
+            "F:/opencv/opencv/build/x64/mingw/install/x64/mingw/bin/lib*",
+            "-I",
+            "F:/opencv/opencv/build/x64/mingw/install/include",
+            "-I",
+            "F:/opencv/opencv/build/x64/mingw/install/include/opencv2",
+            "-I",
+            "C:/Program Files (x86)/Eigen3/include/eigen3",
+            "-I",
+            "C:/Program Files (x86)/Eigen3/include"
+            ]
+       },
+       {
+          "label": "make",
+          "command":"make",
+       },
+       {
+          "label": "CMake Build",
+          "dependsOn":[
+             "cmake",
+             "make"
+          ],
+       }
+    ],
+    "version": "2.0.0"
+ }

@@ -1,0 +1,3 @@
+F:/Knowledges/program/Computer Graphics/games101/PA6/Assignment6/out/build/x64-Debug/CMakeFiles/RayTracing.dir
+F:/Knowledges/program/Computer Graphics/games101/PA6/Assignment6/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+F:/Knowledges/program/Computer Graphics/games101/PA6/Assignment6/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

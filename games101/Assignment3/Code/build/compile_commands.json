@@ -1,0 +1,22 @@
+[
+{
+  "directory": "F:/Knowledges/program/Computer Graphics/games101/Assignment3/Code/build",
+  "command": "F:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\main.cpp.obj -c \"F:\\Knowledges\\program\\Computer Graphics\\games101\\Assignment3\\Code\\main.cpp\"",
+  "file": "F:/Knowledges/program/Computer Graphics/games101/Assignment3/Code/main.cpp"
+},
+{
+  "directory": "F:/Knowledges/program/Computer Graphics/games101/Assignment3/Code/build",
+  "command": "F:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\rasterizer.cpp.obj -c \"F:\\Knowledges\\program\\Computer Graphics\\games101\\Assignment3\\Code\\rasterizer.cpp\"",
+  "file": "F:/Knowledges/program/Computer Graphics/games101/Assignment3/Code/rasterizer.cpp"
+},
+{
+  "directory": "F:/Knowledges/program/Computer Graphics/games101/Assignment3/Code/build",
+  "command": "F:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Triangle.cpp.obj -c \"F:\\Knowledges\\program\\Computer Graphics\\games101\\Assignment3\\Code\\Triangle.cpp\"",
+  "file": "F:/Knowledges/program/Computer Graphics/games101/Assignment3/Code/Triangle.cpp"
+},
+{
+  "directory": "F:/Knowledges/program/Computer Graphics/games101/Assignment3/Code/build",
+  "command": "F:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Texture.cpp.obj -c \"F:\\Knowledges\\program\\Computer Graphics\\games101\\Assignment3\\Code\\Texture.cpp\"",
+  "file": "F:/Knowledges/program/Computer Graphics/games101/Assignment3/Code/Texture.cpp"
+}
+]

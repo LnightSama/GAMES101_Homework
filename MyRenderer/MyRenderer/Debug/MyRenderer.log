@@ -1,0 +1,24 @@
+﻿  canvas.cpp
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\tgaimage.h(52,39): warning C4244: 'argument': conversion from 'double' to 'const uint8_t', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\tgaimage.h(51,39): warning C4244: 'argument': conversion from 'double' to 'const uint8_t', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\tgaimage.h(50,39): warning C4244: 'argument': conversion from 'double' to 'const uint8_t', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\tgaimage.h(61,39): warning C4244: 'argument': conversion from 'double' to 'const uint8_t', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\tgaimage.h(60,39): warning C4244: 'argument': conversion from 'double' to 'const uint8_t', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\tgaimage.h(59,39): warning C4244: 'argument': conversion from 'double' to 'const uint8_t', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(24,47): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(24,28): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(35,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(36,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(68,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(68,16): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(69,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(69,16): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(70,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(70,16): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(71,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\Texture.h(71,16): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\canvas.cpp(269,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\canvas.cpp(270,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\canvas.cpp(271,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Knowledges\program\Computer Graphics\MyRenderer\MyRenderer\canvas.cpp(272,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MyRenderer.vcxproj -> F:\Knowledges\program\Computer Graphics\MyRenderer\Debug\MyRenderer.exe

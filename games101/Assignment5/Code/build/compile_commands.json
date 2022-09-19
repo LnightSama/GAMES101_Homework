@@ -1,0 +1,32 @@
+[
+{
+  "directory": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/build",
+  "command": "F:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/RayTracing.dir/includes_CXX.rsp  -O0 -Wall -g -ggdb -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\test\\main.cpp.obj -c \"F:\\Knowledges\\program\\Computer Graphics\\games101\\Assignment5\\Code\\test\\main.cpp\"",
+  "file": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/test/main.cpp"
+},
+{
+  "directory": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/build",
+  "command": "F:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/RayTracing.dir/includes_CXX.rsp  -O0 -Wall -g -ggdb -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\src\\Scene.cpp.obj -c \"F:\\Knowledges\\program\\Computer Graphics\\games101\\Assignment5\\Code\\src\\Scene.cpp\"",
+  "file": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/src/Scene.cpp"
+},
+{
+  "directory": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/build",
+  "command": "F:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/RayTracing.dir/includes_CXX.rsp  -O0 -Wall -g -ggdb -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\src\\Renderer.cpp.obj -c \"F:\\Knowledges\\program\\Computer Graphics\\games101\\Assignment5\\Code\\src\\Renderer.cpp\"",
+  "file": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/src/Renderer.cpp"
+},
+{
+  "directory": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/build/src",
+  "command": "F:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/mytest.dir/includes_CXX.rsp  -O0 -Wall -g -ggdb -std=gnu++17 -o CMakeFiles\\mytest.dir\\Renderer.cpp.obj -c \"F:\\Knowledges\\program\\Computer Graphics\\games101\\Assignment5\\Code\\src\\Renderer.cpp\"",
+  "file": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/src/Renderer.cpp"
+},
+{
+  "directory": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/build/src",
+  "command": "F:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/mytest.dir/includes_CXX.rsp  -O0 -Wall -g -ggdb -std=gnu++17 -o CMakeFiles\\mytest.dir\\Scene.cpp.obj -c \"F:\\Knowledges\\program\\Computer Graphics\\games101\\Assignment5\\Code\\src\\Scene.cpp\"",
+  "file": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/src/Scene.cpp"
+},
+{
+  "directory": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/build/test",
+  "command": "F:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp  -O0 -Wall -g -ggdb -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c \"F:\\Knowledges\\program\\Computer Graphics\\games101\\Assignment5\\Code\\test\\main.cpp\"",
+  "file": "F:/Knowledges/program/Computer Graphics/games101/Assignment5/Code/test/main.cpp"
+}
+]

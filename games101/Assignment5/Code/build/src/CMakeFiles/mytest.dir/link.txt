@@ -1,0 +1,2 @@
+F:\mingw64\bin\ar.exe qc libmytest.a CMakeFiles/mytest.dir/Renderer.cpp.obj CMakeFiles/mytest.dir/Scene.cpp.obj
+F:\mingw64\bin\ranlib.exe libmytest.a
